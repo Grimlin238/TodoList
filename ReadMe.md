@@ -1,5 +1,6 @@
 # tahdoodle
-# Created by Tyion Lashley
+# Created by Tyian Lashley
+# Final Project: Final Grade ())
 The tahdoodle app allows users to create a ToDo list of tasks they have to perform.
 It was created as a end of semester project.
 ANy copying of the code in this repo is strictly prohibited
